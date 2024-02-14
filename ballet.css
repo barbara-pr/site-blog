@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+h1{
+    font-family: "Dancing Script", cursive;
+    color: rgb(234, 237, 247);
+    background-image: linear-gradient(to top, rgb(221, 234, 250), rgb(26, 44, 66), rgba(77, 75, 75, 0.432));
+    margin: auto;
+    justify-content: center; 
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 2px 1px 20px rgb(36, 35, 35);
+    border-radius: 40%;
+    box-shadow: 3px 3px 10px rgb(105, 108, 109);
+    width: 280px;
+    padding: 3px;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: bolder;
+    font-weight: 500;
+}
+
+h2:hover{
+    background-color: rgba(144, 180, 209, 0.849);
+}
+
+nav{
+    width: 14rem;
+    background-color: rgba(137, 176, 202, 0.76);
+    margin: auto;
+    text-align: center;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav > a:hover{
+    background-color: rgba(103, 12, 248, 0.363);
+    transition-duration: 0.3s;
+}
+
+nav > a:visited{
+    color: rgb(37, 6, 51);
+}
+
+p{
+    font: normal lighter 1em 'Arial, Helvetica, sans-serif';
+    text-align: justify;
+    text-indent: 20px;
+}
+
+article{
+    background-color: rgba(201, 218, 224, 0.404);
+    border: 1px dotted rgb(68, 67, 67);
+    padding: 0px 8px;
+    margin: auto;
+    line-height: 1em; /*Espaçamento entre o subtitúlo e o texto*/
+}
+
+#intro{
+    border: 2px none rgba(4, 51, 94, 0.473);
+    background-color: rgba(243, 243, 243, 0.836);
+}
+
+#intro:hover{
+    background-color: rgba(1, 8, 26, 0.63);
+    color: rgb(240, 240, 233);
+}
+
+body{
+    background-image: linear-gradient(to top, rgb(221, 234, 250), rgba(140, 172, 214, 0.945), rgba(83, 83, 83, 0.438));
+    background-attachment: fixed;
+}
+
+main{
+    background-color: rgba(237, 241, 241, 0.897);
+    min-width: 320px;
+    max-width: 1120px;
+    border-radius: 10px;
+    margin: auto;
+    padding: 10px;
+}
+
+a{
+    color: rgb(6, 6, 58);
+    text-decoration: none;
+}
+
+a:visited{
+    color: rgb(60, 118, 224);
+}
+
+a:hover{
+    text-decoration: underline;
+    color: rgb(45, 47, 56);
+}
+
+a#aba2{
+    background-color: rgba(173, 201, 212, 0.404);
+}
+
+img {
+    width: 100%; 
+    margin: auto;
+    display: block;
+    border-radius: 10px 70px;
+    padding: 4px 0px; /*Primeiro valor: top e bottom; Segundo valor: right e left.*/
+    box-shadow: 2px 2px 5px rgb(105, 108, 109);
+}
+
+li{
+    color: rgb(20, 119, 158);
+}
