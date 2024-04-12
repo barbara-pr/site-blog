@@ -5,6 +5,7 @@ h1{
     color: rgb(234, 237, 247);
     background-image: linear-gradient(to top, rgb(221, 234, 250), rgb(26, 44, 66), rgba(77, 75, 75, 0.432));
     margin: auto;
+    margin-bottom: 20px;
     justify-content: center; 
     font-weight: 700;
     font-style: normal;
@@ -23,26 +24,33 @@ h2{
     font-weight: 500;
 }
 
-h2:hover{
-    background-color: rgba(144, 180, 209, 0.849);
-}
-
 nav{
-    width: 14rem;
-    background-color: rgba(137, 176, 202, 0.76);
-    margin: auto;
-    text-align: center;
-    border-radius: 8px;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(1, 17, 29, 0.644);
+    color: rgb(231, 228, 228);
+    width: 15rem;
+    border-radius: 2px;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 5px;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    right: 120px;
+    top: 360px;
 }
 
 nav > a:hover{
-    background-color: rgba(103, 12, 248, 0.363);
-    transition-duration: 0.3s;
+    background-color: rgba(35, 87, 121, 0.932);
+    padding: 4px;
+    width: 5rem;
+    text-align: center;
+    transition-duration: 0.1s;
 }
 
 nav > a:visited{
-    color: rgb(37, 6, 51);
+    color: white;
 }
 
 p{
@@ -53,7 +61,7 @@ p{
 
 article{
     background-color: rgba(201, 218, 224, 0.404);
-    border: 1px dotted rgb(68, 67, 67);
+    border: 1px solid rgba(97, 95, 95, 0.349);
     padding: 0px 8px;
     margin: auto;
     line-height: 1em; /*Espaçamento entre o subtitúlo e o texto*/
@@ -62,11 +70,7 @@ article{
 #intro{
     border: 2px none rgba(4, 51, 94, 0.473);
     background-color: rgba(243, 243, 243, 0.836);
-}
-
-#intro:hover{
-    background-color: rgba(1, 8, 26, 0.63);
-    color: rgb(240, 240, 233);
+    padding: 10px;
 }
 
 body{
@@ -89,7 +93,7 @@ a{
 }
 
 a:visited{
-    color: rgb(60, 118, 224);
+    color: rgb(37, 63, 112);
 }
 
 a:hover{
@@ -104,6 +108,7 @@ a#aba2{
 img {
     width: 100%; 
     margin: auto;
+    margin-bottom: 30px;
     display: block;
     border-radius: 10px 70px;
     padding: 4px 0px; /*Primeiro valor: top e bottom; Segundo valor: right e left.*/
@@ -111,5 +116,5 @@ img {
 }
 
 li{
-    color: rgb(20, 119, 158);
+    color: rgb(7, 82, 112);
 }
