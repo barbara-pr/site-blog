@@ -2,7 +2,7 @@
 <img width=100% src="https://github.com/barbara-pr/site-blog/assets/154994297/73926d70-6ea3-46b8-87e3-5fe694ba80e2"/>
 </div>
 
-#  🦢 O Lago dos Cisnes
+#  O Lago dos Cisnes
 Um balé clássico composto por Tchaikovsky, que conta a história de amor entre um príncipe e uma princesa transformada em um cisne por um feitiço maligno. 
 
 ## 📌 Objetivo
@@ -13,6 +13,10 @@ __*Pratiquei:*__
 - Link interno e externo (blank, external);
 - Botão (hover);
 - Primeiro contato com um código mais elaborado (carrossel) que me motivou a querer ampliar meus estudos para ser capaz de avançar cada vez mais.
+
+## ⚙️ Ferramentas
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🌐 Colaboradores
 O código do carrossel não foi elaborado por mim, apenas adaptei às minhas necessidades. Abaixo segue o link do código original:
