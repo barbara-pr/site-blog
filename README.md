@@ -12,16 +12,14 @@ __*Pratiquei:*__
 - Menu (nav);
 - Link interno e externo (blank, external);
 - Botão (hover);
-- Primeiro contato com um código mais elaborado (carrossel) que me motivou a querer ampliar meus estudos para ser capaz de avançar cada vez mais.
+- Carrossel de fotos;
+- Responsividade.
 
 ## ⚙️ Ferramentas
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🌐 Colaboradores
-O código do carrossel não foi elaborado por mim, apenas adaptei às minhas necessidades. Abaixo segue o link do código original:
-- https://youtu.be/FZrHoAUkHpE?si=G4x2KKONMHz_1sdB
-
 Informações utilizadas foram coletadas do site abaixo: 
 - www.paixaopeladanca.com.br
 
