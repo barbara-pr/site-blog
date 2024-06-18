@@ -24,35 +24,6 @@ h2{
     font-weight: 500;
 }
 
-nav{
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: rgba(1, 17, 29, 0.644);
-    color: rgb(231, 228, 228);
-    width: 15rem;
-    border-radius: 2px;
-    padding: 5px;
-    display: flex;
-    flex-direction: row;
-    column-gap: 5px;
-    justify-content: space-between;
-    align-items: center;
-    position: absolute;
-    right: 120px;
-    top: 360px;
-}
-
-nav > a:hover{
-    background-color: rgba(35, 87, 121, 0.932);
-    padding: 4px;
-    width: 5rem;
-    text-align: center;
-    transition-duration: 0.1s;
-}
-
-nav > a:visited{
-    color: white;
-}
-
 p{
     font: normal lighter 1em 'Arial, Helvetica, sans-serif';
     text-align: justify;
@@ -60,21 +31,21 @@ p{
 }
 
 article{
-    background-color: rgba(201, 218, 224, 0.404);
+    background-color: rgba(224, 227, 230, 0.712);
     border: 1px solid rgba(97, 95, 95, 0.349);
-    padding: 0px 8px;
+    padding: 10px 8px;
     margin: auto;
     line-height: 1em; /*Espaçamento entre o subtitúlo e o texto*/
 }
 
 #intro{
     border: 2px none rgba(4, 51, 94, 0.473);
-    background-color: rgba(243, 243, 243, 0.836);
+    background-color: rgba(208, 221, 231, 0.836);
     padding: 10px;
 }
 
 body{
-    background-image: linear-gradient(to top, rgb(221, 234, 250), rgba(140, 172, 214, 0.945), rgba(83, 83, 83, 0.438));
+    background-image: linear-gradient(to top, rgb(221, 234, 250), rgba(182, 200, 224, 0.945), rgba(212, 205, 205, 0.842));
     background-attachment: fixed;
 }
 
@@ -105,14 +76,14 @@ a#aba2{
     background-color: rgba(173, 201, 212, 0.404);
 }
 
-img {
+img#capa {
     width: 100%; 
     margin: auto;
     margin-bottom: 30px;
     display: block;
     border-radius: 10px 70px;
-    padding: 4px 0px; /*Primeiro valor: top e bottom; Segundo valor: right e left.*/
-    box-shadow: 2px 2px 5px rgb(105, 108, 109);
+    padding: 4px 0px; 
+    box-shadow: 1px 1px 10px rgb(105, 108, 109);
 }
 
 li{

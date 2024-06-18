@@ -1,23 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="ballet.css" media="screen">
+    <link rel="stylesheet" href="midias.css">
     <title>Swan Lake</title>
 </head>
 <body>
     <main>   
         <header>
-            <abbr title="Pinterest art"><img src="capafoto.jpg"></abbr>   
+            <abbr title="Pinterest art"><img id="capa" src="capafoto.jpg"></abbr>   
             <h1>O Lago dos Cisnes</h1>
-            <nav>
-                <a href="#">Home</a>
-                <a href="#">Notícias</a>
-                <a href="#">Outros</a>
-            </nav>
         </header>
         <br>
         <article>
@@ -50,10 +46,7 @@
             No entanto, outros elementos contribuem para o seu reconhecimento, como a busca pela perfeição técnica na execução da peça por parte dos bailarinos que dela participaram, como a virtuosa Pierina Legnani, que realizava uma sequência de 32 fouettés quando interpretava Odette e Odile.<br> <br>
 
             Vale lembrar que este balé também exige enormemente dos músicos, principalmente dos solistas de violino, e traz uma das maiores cargas dramáticas da história da música sinfônica mundial. Um espetáculo imperdível!</p>
-
-            <a id="aba2" href="midias.html" target="_self">Clique aqui para ver um pouco desse espetáculo</a>
-            <br>
-            <br>
+            
             <footer>
                 <ul>
                     <li>
@@ -61,8 +54,20 @@
                     </li>
                 </ul>
             </footer>
-        </article>
+        
+            <div class="carousel"> 
+                <div class="slides">
+                    <div class="slide"><img src="acervo/capa1.jpg" alt="Img 1"></div>
+                    <div class="slide"><img src="acervo/2foto.jpg" alt="Img 2"></div>
+                    <div class="slide"><img src="acervo/3foto.jpg" alt="Img 3"></div>
+                </div>
+                <div class="controls">
+                    <button class="control-prev">❮</button>
+                    <button class="control-next">❯</button>
+                </div>
+            </div>
+            <script src="midias.js"></script>
+        </article>  
     </main>
-
 </body>
 </html>
