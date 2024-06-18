@@ -1,9 +1,5 @@
-<div align="center">
-<img width=100% src="https://github.com/barbara-pr/site-blog/assets/154994297/73926d70-6ea3-46b8-87e3-5fe694ba80e2"/>
-</div>
-
-#  O Lago dos Cisnes
-Um balé clássico composto por Tchaikovsky, que conta a história de amor entre um príncipe e uma princesa transformada em um cisne por um feitiço maligno. 
+## Ballet Art
+Um site dedicado ao mundo encantador do ballet. Com foco em proporcionar uma experiência lúdica e intuitiva, o Ballet Art apresenta os ballets mais clássicos e fascinantes, permitindo que você descubra e aprecie a beleza desta arte atemporal.
 
 ## 📌 Objetivo
 Praticar meus aprendizados e ter o primeiro contato com a criação de um blog, fazendo pesquisas e coleta de imagens para chegar ao resultado que queria.
