@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+
 ## Ballet Art
 Um site dedicado ao mundo encantador do ballet. Com foco em proporcionar uma experiência lúdica e intuitiva, o Ballet Art apresenta os ballets mais clássicos e fascinantes, permitindo que você descubra e aprecie a beleza desta arte atemporal.
 
